@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -O3 -fno-common   -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)    C:\Users\PC\Desktop\LED 64x32 PANEL\LED 64x32 PANEL\LED_64x32_PANEL.X\main.c
